@@ -11,6 +11,18 @@ It is based on Murat Yücedağ’s Udemy course project “C# ile DevExpress’t
 
 <br>
 
+## 🖼️ Screenshots
+Shown below in order:  
+**1. Tasks**
+
+<p align="center">
+  <img src="./docs/screenshots/tasks.png" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
+</p>
+
+<br>
+
 ## 🧰 Tech Stack
 
 <p>
