@@ -6,6 +6,7 @@
 
 This project is a **stock tracking application prototype** developed with **DevExpress** components in a .NET environment.  
 It was created to explore DevExpress UI capabilities and implement essential stock management features.  
+It is based on Murat Yücedağ’s Udemy course project “C# ile DevExpress’te Teknik Servis ve Ürün Takip Sistemi”, adapted and implemented for practice.  
 > 📦 **Archived** — This project is no longer being updated. It’s kept as part of my learning history and serves as a technical reference for future projects.
 
 <br>
