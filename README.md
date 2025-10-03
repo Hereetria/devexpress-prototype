@@ -16,7 +16,7 @@ Shown below in order:
 **1. Tasks**
 
 <p align="center">
-  <img src="./docs/screenshots/tasks.png" width="32%">
+  <img src="./docs/screenshots/form.png" width="32%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
 </p>
